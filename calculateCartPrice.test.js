@@ -107,6 +107,7 @@
 
 // 11 Final Fix
 // Perfect. We have proven the bug exists. Now we fix it
+// Skip NaN check for brevity
 
 // const calculateCartPrice = (prices, discountPercentage) => {
 //   const total = prices.reduce((sum, price) => sum + price, 0);
