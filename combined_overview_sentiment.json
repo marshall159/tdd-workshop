@@ -1,0 +1,1619 @@
+[
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Negative",
+    "reviewCount": "145",
+    "sentimentRatio": "0.68",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "20",
+    "sentimentRatio": "0.09",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Positive",
+    "reviewCount": "49",
+    "sentimentRatio": "0.23",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "55",
+    "sentimentRatio": "0.56",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "7",
+    "sentimentRatio": "0.07",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "36",
+    "sentimentRatio": "0.37",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Negative",
+    "reviewCount": "53",
+    "sentimentRatio": "0.53",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "11",
+    "sentimentRatio": "0.11",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Positive",
+    "reviewCount": "36",
+    "sentimentRatio": "0.36",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "4",
+    "sentimentRatio": "0.44",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "1",
+    "sentimentRatio": "0.11",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "4",
+    "sentimentRatio": "0.44",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Negative",
+    "reviewCount": "7",
+    "sentimentRatio": "0.26",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3",
+    "sentimentRatio": "0.11",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Positive",
+    "reviewCount": "17",
+    "sentimentRatio": "0.63",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "7",
+    "sentimentRatio": "0.27",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "19",
+    "sentimentRatio": "0.73",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "2",
+    "sentimentRatio": "1.0",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Negative",
+    "reviewCount": "3",
+    "sentimentRatio": "0.75",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.25",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Negative",
+    "reviewCount": "5",
+    "sentimentRatio": "0.71",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "1",
+    "sentimentRatio": "0.14",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.14",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "63",
+    "sentimentRatio": "0.62",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "15",
+    "sentimentRatio": "0.15",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "24",
+    "sentimentRatio": "0.24",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Negative",
+    "reviewCount": "3",
+    "sentimentRatio": "1.0",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1",
+    "sentimentRatio": "1.0",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Negative",
+    "reviewCount": "8",
+    "sentimentRatio": "0.89",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.11",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Negative",
+    "reviewCount": "13",
+    "sentimentRatio": "0.5",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "6",
+    "sentimentRatio": "0.23",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Positive",
+    "reviewCount": "7",
+    "sentimentRatio": "0.27",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "3",
+    "sentimentRatio": "0.75",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.25",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Negative",
+    "reviewCount": "4",
+    "sentimentRatio": "0.5",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Positive",
+    "reviewCount": "4",
+    "sentimentRatio": "0.5",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Negative",
+    "reviewCount": "12",
+    "sentimentRatio": "0.71",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3",
+    "sentimentRatio": "0.18",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Positive",
+    "reviewCount": "2",
+    "sentimentRatio": "0.12",
+    "topic": "credibility"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Negative",
+    "reviewCount": "567",
+    "sentimentRatio": "0.95",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "21",
+    "sentimentRatio": "0.04",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Positive",
+    "reviewCount": "7",
+    "sentimentRatio": "0.01",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "185",
+    "sentimentRatio": "0.92",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "10",
+    "sentimentRatio": "0.05",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "6",
+    "sentimentRatio": "0.03",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Negative",
+    "reviewCount": "90",
+    "sentimentRatio": "0.92",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "6",
+    "sentimentRatio": "0.06",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Positive",
+    "reviewCount": "2",
+    "sentimentRatio": "0.02",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "4",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Negative",
+    "reviewCount": "10",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "13",
+    "sentimentRatio": "0.81",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "2",
+    "sentimentRatio": "0.13",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.06",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "8",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Negative",
+    "reviewCount": "8",
+    "sentimentRatio": "0.89",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "1",
+    "sentimentRatio": "0.11",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Negative",
+    "reviewCount": "6",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "220",
+    "sentimentRatio": "0.96",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "7",
+    "sentimentRatio": "0.03",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "2",
+    "sentimentRatio": "0.01",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "2",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Negative",
+    "reviewCount": "11",
+    "sentimentRatio": "0.85",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Positive",
+    "reviewCount": "2",
+    "sentimentRatio": "0.15",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Negative",
+    "reviewCount": "52",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "3",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Negative",
+    "reviewCount": "12",
+    "sentimentRatio": "1.0",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Negative",
+    "reviewCount": "73",
+    "sentimentRatio": "0.95",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3",
+    "sentimentRatio": "0.04",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.01",
+    "topic": "fraud"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Negative",
+    "reviewCount": "12034",
+    "sentimentRatio": "0.41",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "6066",
+    "sentimentRatio": "0.2",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Positive",
+    "reviewCount": "11582",
+    "sentimentRatio": "0.39",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "4808",
+    "sentimentRatio": "0.32",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3336",
+    "sentimentRatio": "0.22",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "6824",
+    "sentimentRatio": "0.46",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Negative",
+    "reviewCount": "3960",
+    "sentimentRatio": "0.31",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "2352",
+    "sentimentRatio": "0.19",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Positive",
+    "reviewCount": "6306",
+    "sentimentRatio": "0.5",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "344",
+    "sentimentRatio": "0.29",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "313",
+    "sentimentRatio": "0.27",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "523",
+    "sentimentRatio": "0.44",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Negative",
+    "reviewCount": "764",
+    "sentimentRatio": "0.29",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "688",
+    "sentimentRatio": "0.26",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1218",
+    "sentimentRatio": "0.46",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "493",
+    "sentimentRatio": "0.11",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "612",
+    "sentimentRatio": "0.14",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "3366",
+    "sentimentRatio": "0.75",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "96",
+    "sentimentRatio": "0.41",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "50",
+    "sentimentRatio": "0.21",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "88",
+    "sentimentRatio": "0.38",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Negative",
+    "reviewCount": "274",
+    "sentimentRatio": "0.31",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "219",
+    "sentimentRatio": "0.25",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Positive",
+    "reviewCount": "381",
+    "sentimentRatio": "0.44",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Negative",
+    "reviewCount": "348",
+    "sentimentRatio": "0.2",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "340",
+    "sentimentRatio": "0.19",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1084",
+    "sentimentRatio": "0.61",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "7225",
+    "sentimentRatio": "0.35",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3940",
+    "sentimentRatio": "0.19",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "9201",
+    "sentimentRatio": "0.45",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Negative",
+    "reviewCount": "51",
+    "sentimentRatio": "0.21",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "45",
+    "sentimentRatio": "0.18",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Positive",
+    "reviewCount": "151",
+    "sentimentRatio": "0.61",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "249",
+    "sentimentRatio": "0.31",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "217",
+    "sentimentRatio": "0.27",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "326",
+    "sentimentRatio": "0.41",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Negative",
+    "reviewCount": "625",
+    "sentimentRatio": "0.38",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "457",
+    "sentimentRatio": "0.27",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Positive",
+    "reviewCount": "583",
+    "sentimentRatio": "0.35",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1271",
+    "sentimentRatio": "0.3",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "969",
+    "sentimentRatio": "0.23",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1955",
+    "sentimentRatio": "0.47",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "176",
+    "sentimentRatio": "0.3",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "134",
+    "sentimentRatio": "0.23",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "273",
+    "sentimentRatio": "0.47",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "4",
+    "sentimentRatio": "0.21",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "2",
+    "sentimentRatio": "0.11",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "13",
+    "sentimentRatio": "0.68",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Negative",
+    "reviewCount": "448",
+    "sentimentRatio": "0.26",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "410",
+    "sentimentRatio": "0.23",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Positive",
+    "reviewCount": "893",
+    "sentimentRatio": "0.51",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Negative",
+    "reviewCount": "539",
+    "sentimentRatio": "0.44",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "261",
+    "sentimentRatio": "0.21",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Positive",
+    "reviewCount": "417",
+    "sentimentRatio": "0.34",
+    "topic": "delivery_service"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1615",
+    "sentimentRatio": "0.76",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "383",
+    "sentimentRatio": "0.18",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Positive",
+    "reviewCount": "116",
+    "sentimentRatio": "0.05",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "368",
+    "sentimentRatio": "0.6",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "154",
+    "sentimentRatio": "0.25",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "91",
+    "sentimentRatio": "0.15",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Negative",
+    "reviewCount": "388",
+    "sentimentRatio": "0.7",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "115",
+    "sentimentRatio": "0.21",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Positive",
+    "reviewCount": "51",
+    "sentimentRatio": "0.09",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "20",
+    "sentimentRatio": "0.41",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "22",
+    "sentimentRatio": "0.45",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "7",
+    "sentimentRatio": "0.14",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Negative",
+    "reviewCount": "41",
+    "sentimentRatio": "0.58",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "21",
+    "sentimentRatio": "0.3",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Positive",
+    "reviewCount": "9",
+    "sentimentRatio": "0.13",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "51",
+    "sentimentRatio": "0.38",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "50",
+    "sentimentRatio": "0.37",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "35",
+    "sentimentRatio": "0.26",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "10",
+    "sentimentRatio": "0.77",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "3",
+    "sentimentRatio": "0.23",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Negative",
+    "reviewCount": "26",
+    "sentimentRatio": "0.62",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "11",
+    "sentimentRatio": "0.26",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Positive",
+    "reviewCount": "5",
+    "sentimentRatio": "0.12",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Negative",
+    "reviewCount": "34",
+    "sentimentRatio": "0.64",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "12",
+    "sentimentRatio": "0.23",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Positive",
+    "reviewCount": "7",
+    "sentimentRatio": "0.13",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "436",
+    "sentimentRatio": "0.6",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "222",
+    "sentimentRatio": "0.3",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "73",
+    "sentimentRatio": "0.1",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1",
+    "sentimentRatio": "0.08",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "8",
+    "sentimentRatio": "0.67",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Positive",
+    "reviewCount": "3",
+    "sentimentRatio": "0.25",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "13",
+    "sentimentRatio": "0.46",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "5",
+    "sentimentRatio": "0.18",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "10",
+    "sentimentRatio": "0.36",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Negative",
+    "reviewCount": "40",
+    "sentimentRatio": "0.66",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "16",
+    "sentimentRatio": "0.26",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Positive",
+    "reviewCount": "5",
+    "sentimentRatio": "0.08",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Negative",
+    "reviewCount": "99",
+    "sentimentRatio": "0.59",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "49",
+    "sentimentRatio": "0.29",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Positive",
+    "reviewCount": "21",
+    "sentimentRatio": "0.12",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "6",
+    "sentimentRatio": "0.6",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "3",
+    "sentimentRatio": "0.3",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.1",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "1",
+    "sentimentRatio": "0.33",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "1",
+    "sentimentRatio": "0.33",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1",
+    "sentimentRatio": "0.33",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Negative",
+    "reviewCount": "33",
+    "sentimentRatio": "0.6",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "15",
+    "sentimentRatio": "0.27",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Positive",
+    "reviewCount": "7",
+    "sentimentRatio": "0.13",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Negative",
+    "reviewCount": "109",
+    "sentimentRatio": "0.85",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "15",
+    "sentimentRatio": "0.12",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Positive",
+    "reviewCount": "4",
+    "sentimentRatio": "0.03",
+    "topic": "warning"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Negative",
+    "reviewCount": "945",
+    "sentimentRatio": "0.43",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "420",
+    "sentimentRatio": "0.19",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "50feb3bb0000640005212688",
+    "sentimentLabel": "Positive",
+    "reviewCount": "817",
+    "sentimentRatio": "0.37",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "334",
+    "sentimentRatio": "0.28",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "208",
+    "sentimentRatio": "0.18",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "50feb403000064000521268c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "636",
+    "sentimentRatio": "0.54",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Negative",
+    "reviewCount": "308",
+    "sentimentRatio": "0.29",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "197",
+    "sentimentRatio": "0.19",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "512cda6e000064000522fb6a",
+    "sentimentLabel": "Positive",
+    "reviewCount": "543",
+    "sentimentRatio": "0.52",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "27",
+    "sentimentRatio": "0.21",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "31",
+    "sentimentRatio": "0.24",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "55d600fd0000ff000582607c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "72",
+    "sentimentRatio": "0.55",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Negative",
+    "reviewCount": "38",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "32",
+    "sentimentRatio": "0.19",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "562fe3530000ff000584d5f8",
+    "sentimentLabel": "Positive",
+    "reviewCount": "96",
+    "sentimentRatio": "0.58",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Negative",
+    "reviewCount": "91",
+    "sentimentRatio": "0.08",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "103",
+    "sentimentRatio": "0.09",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "563ca4940000ff000585374b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "1006",
+    "sentimentRatio": "0.84",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "11",
+    "sentimentRatio": "0.38",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "6",
+    "sentimentRatio": "0.21",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "56794b800000ff000586ebaf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "12",
+    "sentimentRatio": "0.41",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Negative",
+    "reviewCount": "23",
+    "sentimentRatio": "0.28",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "19",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "57e992ad0000ff0005953a91",
+    "sentimentLabel": "Positive",
+    "reviewCount": "39",
+    "sentimentRatio": "0.48",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Negative",
+    "reviewCount": "30",
+    "sentimentRatio": "0.24",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "22",
+    "sentimentRatio": "0.17",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "590b073c0000ff0005a1c9db",
+    "sentimentLabel": "Positive",
+    "reviewCount": "74",
+    "sentimentRatio": "0.59",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "382",
+    "sentimentRatio": "0.35",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "252",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "596fd4130000ff0005a7046c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "454",
+    "sentimentRatio": "0.42",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Negative",
+    "reviewCount": "5",
+    "sentimentRatio": "0.14",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "5",
+    "sentimentRatio": "0.14",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5ad7a79d0890280001189a47",
+    "sentimentLabel": "Positive",
+    "reviewCount": "26",
+    "sentimentRatio": "0.72",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Negative",
+    "reviewCount": "16",
+    "sentimentRatio": "0.3",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "8",
+    "sentimentRatio": "0.15",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5aecbb36bd9bc30001f19daf",
+    "sentimentLabel": "Positive",
+    "reviewCount": "30",
+    "sentimentRatio": "0.56",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Negative",
+    "reviewCount": "42",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "37",
+    "sentimentRatio": "0.2",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b03c3668d212f00019fe597",
+    "sentimentLabel": "Positive",
+    "reviewCount": "102",
+    "sentimentRatio": "0.56",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Negative",
+    "reviewCount": "85",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "86",
+    "sentimentRatio": "0.24",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5b2d37fb48fe4e000188ed49",
+    "sentimentLabel": "Positive",
+    "reviewCount": "193",
+    "sentimentRatio": "0.53",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Negative",
+    "reviewCount": "9",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "9",
+    "sentimentRatio": "0.23",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5c103d5dba7f24000112e01c",
+    "sentimentLabel": "Positive",
+    "reviewCount": "21",
+    "sentimentRatio": "0.54",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "1",
+    "sentimentRatio": "0.25",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5cc87925e50b0600019ae05b",
+    "sentimentLabel": "Positive",
+    "reviewCount": "3",
+    "sentimentRatio": "0.75",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Negative",
+    "reviewCount": "24",
+    "sentimentRatio": "0.26",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "16",
+    "sentimentRatio": "0.17",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "5d7b595a91888700016e3ae9",
+    "sentimentLabel": "Positive",
+    "reviewCount": "52",
+    "sentimentRatio": "0.57",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Negative",
+    "reviewCount": "80",
+    "sentimentRatio": "0.53",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Neutral",
+    "reviewCount": "26",
+    "sentimentRatio": "0.17",
+    "topic": "ethics"
+  },
+  {
+    "businessUnitId": "60390b5770c83a000172fc32",
+    "sentimentLabel": "Positive",
+    "reviewCount": "46",
+    "sentimentRatio": "0.3",
+    "topic": "ethics"
+  }
+]

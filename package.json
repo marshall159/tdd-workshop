@@ -2,15 +2,18 @@
   "name": "tdd-workshop",
   "version": "1.0.0",
   "description": "",
-  "main": "calculateCartPrice.test.js",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch"
+    "watch": "jest --watch",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "fastify": "^5.6.2"
   }
 }
